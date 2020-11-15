@@ -1,6 +1,6 @@
 require "inline_styles"
 require "inline_styles_mailer/version"
-require "sass"
+require "sass-rails"
 
 module InlineStylesMailer
 
